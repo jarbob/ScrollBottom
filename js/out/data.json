@@ -1,0 +1,128 @@
+{
+    "project": {},
+    "files": {
+        "jQueryScrollBottom.js": {
+            "name": "jQueryScrollBottom.js",
+            "modules": {},
+            "classes": {
+                "ScrollBottom": 1
+            },
+            "fors": {},
+            "namespaces": {}
+        }
+    },
+    "modules": {},
+    "classes": {
+        "ScrollBottom": {
+            "name": "ScrollBottom",
+            "shortname": "ScrollBottom",
+            "classitems": [],
+            "plugins": [],
+            "extensions": [],
+            "plugin_for": [],
+            "extension_for": [],
+            "file": "jQueryScrollBottom.js",
+            "line": 1,
+            "description": "jQuaryScrollBottom.js\nPlugin Example File",
+            "author": "Keitarou",
+            "date": "2013.4.30",
+            "is_constructor": 1,
+            "params": [
+                {
+                    "name": "options",
+                    "description": "",
+                    "type": "Array"
+                }
+            ]
+        }
+    },
+    "classitems": [
+        {
+            "file": "jQueryScrollBottom.js",
+            "line": 14,
+            "itemtype": "property",
+            "name": "defaults",
+            "type": "Object",
+            "class": "ScrollBottom"
+        },
+        {
+            "file": "jQueryScrollBottom.js",
+            "line": 25,
+            "itemtype": "property",
+            "name": "elements",
+            "type": "Object",
+            "class": "ScrollBottom"
+        },
+        {
+            "file": "jQueryScrollBottom.js",
+            "line": 31,
+            "itemtype": "property",
+            "name": "options",
+            "type": "Object",
+            "class": "ScrollBottom"
+        },
+        {
+            "file": "jQueryScrollBottom.js",
+            "line": 37,
+            "description": "method getOptions",
+            "itemtype": "method",
+            "name": "getOptions",
+            "return": {
+                "description": "Object"
+            },
+            "class": "ScrollBottom"
+        },
+        {
+            "file": "jQueryScrollBottom.js",
+            "line": 47,
+            "description": "method lock\nloadng lock!",
+            "itemtype": "method",
+            "name": "lock",
+            "return": {
+                "description": "boolean true"
+            },
+            "class": "ScrollBottom"
+        },
+        {
+            "file": "jQueryScrollBottom.js",
+            "line": 58,
+            "description": "method unlock\nloadng unlock!",
+            "itemtype": "method",
+            "name": "unlock",
+            "return": {
+                "description": "boolean false"
+            },
+            "class": "ScrollBottom"
+        },
+        {
+            "file": "jQueryScrollBottom.js",
+            "line": 71,
+            "description": "event scroll\nCall Event \"bottom\"",
+            "itemtype": "event",
+            "name": "scroll",
+            "class": "ScrollBottom"
+        },
+        {
+            "file": "jQueryScrollBottom.js",
+            "line": 89,
+            "description": "event bottom",
+            "itemtype": "event",
+            "name": "bottom",
+            "class": "ScrollBottom"
+        },
+        {
+            "file": "jQueryScrollBottom.js",
+            "line": 102,
+            "description": "event final",
+            "itemtype": "event",
+            "name": "final",
+            "class": "ScrollBottom"
+        }
+    ],
+    "warnings": [
+        {
+            "message": "unknown tag: date",
+            "line": " jQueryScrollBottom.js:1"
+        }
+    ]
+}

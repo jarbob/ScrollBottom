@@ -1,0 +1,29 @@
+body {
+	background-color: #66d3ff
+}
+
+div.scroll_area {
+	height: 300px;
+	width: 400px;
+	overflow: scroll;
+}
+
+table {
+	width: 400px;
+	text-align: center;
+	background-color: #3766ff;
+}
+
+table tr {
+	height: 32px;
+	line-height: 32px;
+}
+
+table th {
+	color: #ff3237;
+}
+
+table tfoot.scroll_loading {
+	color: #ffffff;
+	display: none;
+}
